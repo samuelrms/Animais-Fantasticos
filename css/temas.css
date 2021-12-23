@@ -1,0 +1,23 @@
+.noturno {
+  background: linear-gradient(140deg, #000000, #000011,#121317, #333333, #2E2E2E, #4D4D4D);
+  color: #fff;
+}
+.textomaior{
+  font-size: 150%;
+}
+.noturno .animais-lista::-webkit-scrollbar-thumb {
+  background-color: #fb5;
+  border-left: 4px solid linear-gradient(140deg, #000000, #000011,#121317, #333333, #2E2E2E, #4D4D4D);
+  border-right: 4px solid linear-gradient(140deg, #000000, #000011,#121317, #333333, #2E2E2E, #4D4D4D);
+}
+
+.noturno .pix{
+color: #000000;
+}
+.noturno .btc-preco{
+  color: #000000;
+}
+.noturno .copy{
+  color: #000000;
+
+}

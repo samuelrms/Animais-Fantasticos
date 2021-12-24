@@ -40,6 +40,6 @@ funcionamento.init()
 
 initTemas();
 
-criarAnimais('../../animaisapi.json', '.numeros-grid');
+criarAnimais('./animaisapi.json', '.numeros-grid');
 
 fetchBitcoin('https://blockchain.info/ticker', '.btc-preco');

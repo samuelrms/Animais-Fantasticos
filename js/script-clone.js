@@ -1,4 +1,4 @@
-import ScrollSuave from './modules/scroll-suave.js';
+/* import ScrollSuave from './modules/scroll-suave.js';
 import Accordion from './modules/accordion.js';
 import TabNav from './modules/tab-nav.js';
 import Modal from './modules/modal.js';
@@ -6,7 +6,7 @@ import Tooltip from './modules/tooltip.js';
 import initDropdownMenu from './modules/dropdown-menu.js';
 import initMenuMobile from './modules/menu-mobile.js';
 import initFuncionamento from './modules/funcionamento.js';
-import criarAnimais from './modules/fetch-animais.js';
+import criarAnimais from './modules/fetch-animais-clone.js';
 import initFetchBitcoin from './modules/fetch-bitcoin.js';
 import initAnimacaoScroll from './modules/scroll-animacao.js';
 import initTemas from './modules/temas.js';
@@ -33,4 +33,4 @@ initFuncionamento();
 initFetchBitcoin();
 initAnimacaoScroll();
 initTemas();
-criarAnimais();
+criarAnimais('../animaisapi.json', '.numeros-grid') */

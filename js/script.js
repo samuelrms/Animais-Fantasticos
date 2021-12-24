@@ -29,6 +29,7 @@ tooltip.init();
 initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
+
 initFetchBitcoin();
 initAnimacaoScroll();
 initTemas();

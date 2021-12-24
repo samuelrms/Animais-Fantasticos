@@ -1,23 +1,51 @@
 .noturno {
-  background: linear-gradient(140deg, #000000, #000011,#121317, #333333, #2E2E2E, #4D4D4D);
+  background: linear-gradient(
+    140deg,
+    #000000,
+    #000011,
+    #121317,
+    #333333,
+    #2e2e2e,
+    #4d4d4d
+  );
   color: #fff;
 }
-.textomaior{
+.textomaior {
   font-size: 150%;
 }
 .noturno .animais-lista::-webkit-scrollbar-thumb {
   background-color: #fb5;
-  border-left: 4px solid linear-gradient(140deg, #000000, #000011,#121317, #333333, #2E2E2E, #4D4D4D);
-  border-right: 4px solid linear-gradient(140deg, #000000, #000011,#121317, #333333, #2E2E2E, #4D4D4D);
+  border-left: 4px solid
+    linear-gradient(
+      140deg,
+      #000000,
+      #000011,
+      #121317,
+      #333333,
+      #2e2e2e,
+      #4d4d4d
+    );
+  border-right: 4px solid
+    linear-gradient(
+      140deg,
+      #000000,
+      #000011,
+      #121317,
+      #333333,
+      #2e2e2e,
+      #4d4d4d
+    );
 }
 
-.noturno .pix{
-color: #000000;
-}
-.noturno .btc-preco{
+.noturno .pix {
   color: #000000;
 }
-.noturno .copy{
+.noturno .btc-preco {
   color: #000000;
-
+}
+.noturno .copy {
+  color: #000000;
+}
+.noturno .modal {
+  color: #000000;
 }

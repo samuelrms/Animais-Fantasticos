@@ -33,4 +33,4 @@ initFuncionamento();
 initFetchBitcoin();
 initAnimacaoScroll();
 initTemas();
-criarAnimais();
+criarAnimais('../../animaisapi.json', '.numeros-grid');

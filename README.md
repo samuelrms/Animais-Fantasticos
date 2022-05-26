@@ -3,7 +3,6 @@
 ## Projeto proposto pelo curso de Js ministrado pelo professor André da Origamid
 
 ## Foram implementadas algumas funcionalidades a mais do que o proposto, como alterar o tamanho do texto e o tema, sendo eles dark e light.
-
 ### Dark
 ![image](https://user-images.githubusercontent.com/92615688/170523198-9776039e-e0f9-4baa-86b8-b46f81eebb54.png)
 ![image](https://user-images.githubusercontent.com/92615688/170523275-adabdb94-a273-4acb-9ac7-eb6f6bdb7fda.png)
